@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EWPIoT</string>
+    <string name="project_description">
+        The outcome of this study will further make the propagation of Watercresses (Nasturtium officinale)
+        significantly easier in climates not ideal for propagation of the plant,
+        with thoughts that it can control and maintain ideal temperature and condition,
+        it can also catalyze other plant propagation not restraining to Watercresses (Nasturtium officinale).
+        People in the agricultural industry can significantly benefit from this because of its potential
+        to enhance their ability to produce a variety of plants. It can be further improved to mass produce
+        agricultural products on demand and help the agricultural industry in their versatility.
+    </string>
+    <string name="project_scope_and_limitation">Watercresses (Nasturtium officinale) is a type of aquatic plant that is edible and used as an herbal remedy for constipation and polyps; it also aids in respiratory-related problems with the likes of tuberculosis, coughs, bronchitis, and swollen breathing passages.\n The only issue in propagation in said plants\' preferred climate is with colder temperatures; here in the Philippines, the plant is commonly found in colder regions. The only growing areas for watercress are in Baguio, Mountain Trail, and Ifugao Province (Manila Bulletin 2021, 1).\nBecause of the issues, the proponents have decided to make an apparatus that propagates in areas with higher temperatures. With the help of Arduino, anyone can readily access technology through coding and programming. The Automatic Temperature Control System is programmed to adjust to the plant\'s needed conditions so it can fully grow without following seasons or adjusting to particular climates. Using the Arduino Software, the device will be able to propagate a plant without any human interference and just by relying on the device\'s automated features. \n</string>
+</resources>
